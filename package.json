@@ -1,6 +1,6 @@
 {
   "name": "meshblu-core-task-check-receive-as-whitelist",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "dependencies": {
